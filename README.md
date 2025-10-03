@@ -46,7 +46,7 @@ Este painel foca na análise de lucros:
 
 * **Visualizações:**
 
-  * Mapa com soma dos lucros por país em 2014 (valores próximos de 1 Mi por país).
+  * Mapa com soma dos lucros por país em 2013 e 2014.
 
   * Gráfico de pizza com lucros por produto (ex: VTT, Copiers, Fax).
 
@@ -72,7 +72,6 @@ Este projeto demonstra a capacidade do Power BI em transformar dados brutos em i
 
 ## Link
 
-
-  * País
+[Relatório Power BI](https://github.com/marcelomoura85/Desafio-2---Dio-Randstad-PowerBI-/blob/main/Desafio%202%20%20-%20Dio-Randstad.pbix)
 
 
